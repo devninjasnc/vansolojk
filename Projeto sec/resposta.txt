@@ -1,0 +1,4 @@
+Flamengo: 45%
+Cruzeiro: 55%
+
+Isso significa que a inteligência artificial estima que o Cruzeiro tem 55% de chances de vencer o jogo. Isso não significa que o Flamengo não tem chances de vencer, pois aproximadamente 45% das vezes a inteligência artificial estima que o Flamengo vencerá. É importante notar que essas probabilidades não garantem o resultado do jogo e que o resultado real pode variar.
